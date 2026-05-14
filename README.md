@@ -1,5 +1,4 @@
-![Banner](<img width="1774" height="887" alt="ChatGPT Image May 14, 2026, 11_02_22 PM" src="https://github.com/user-attachments/assets/6c5ac954-2498-44fb-a8fb-cbb0b583306a" />
-)
+
 # Hi, I'm Shravani Sahare 👋
 
 ### AI • Automation • Embedded Systems • IoT
