@@ -17,9 +17,6 @@ ECE Undergraduate passionate about building intelligent real-world systems using
 ### 🔹 QuantumTrade-AI
 AI-powered stock market intelligence platform using predictive analytics and machine learning.
 
-### 🔹 Adaptive-IoT-Home-Automation
-Smart home automation system adapting to user behavior and environmental conditions.
-
 ### 🔹 Credit-Card-Fraud-Detection
 Machine learning system for detecting fraudulent financial transactions.
 
